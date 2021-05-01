@@ -1,0 +1,11 @@
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Release\Controllo Robot Antronyx.exe.config
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Release\Controllo Robot Antronyx.exe
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Release\Controllo Robot Antronyx.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Release\Controllo Robot Antronyx.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Release\Controllo_Robot_Antronyx.Form1.resources
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Release\Controllo_Robot_Antronyx.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Release\Controllo Robot Antronyx.vbproj.GenerateResource.Cache
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Release\Controllo Robot Antronyx.exe
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Release\Controllo Robot Antronyx.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Release\Controllo Robot Antronyx.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Release\Controllo Robot Antronyx.vbprojResolveAssemblyReference.cache

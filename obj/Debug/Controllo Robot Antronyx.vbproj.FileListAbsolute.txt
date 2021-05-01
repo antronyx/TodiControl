@@ -1,0 +1,22 @@
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.exe.config
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.exe
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.xml
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.vbprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo_Robot_Antronyx.Form1.resources
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo_Robot_Antronyx.Resources.resources
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.vbproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.exe
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.xml
+c:\users\antonio\documents\visual studio 2015\Projects\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.pdb
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.exe.config
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.exe
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.xml
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.pdb
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.exe
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.pdb
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\bin\Debug\Controllo Robot Antronyx.xml
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.vbprojResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo_Robot_Antronyx.Form1.resources
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo_Robot_Antronyx.Resources.resources
+C:\Users\Antonio\Dropbox\Controllo Robot Antronyx\Controllo Robot Antronyx\obj\Debug\Controllo Robot Antronyx.vbproj.GenerateResource.Cache
