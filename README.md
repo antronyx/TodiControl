@@ -1,4 +1,4 @@
-# Antronyx T.O.B.I. Control 
+# Antronyx T.O.D.I. Control 
 
 The program I wrote to control my first semi-humanoid robot.
 Check it out on [@antronyx_robotics](http://www.instagram.com/antronyx_robotics).
